@@ -1,0 +1,10 @@
+h5py>=2.10.0
+jupyter>=1.0.0
+nilearn>=0.6.2
+scikit-learn>=0.23.0
+pandas>=1.0.3
+tqdm>=4.46.0
+scikit-rvm @ https://github.com/JamesRitchie/scikit-rvm/archive/master.zip
+# https://github.com/AmazaspShumik/sklearn_bayes/archive/master.zip
+bokeh>=2.0.2
+matplotlib>=3.2.1
